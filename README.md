@@ -1,2 +1,2 @@
-# twitter_prediction
-Kaggle
+# Twitter Predictions
+Public Kaggle Competition code
