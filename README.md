@@ -1,2 +1,2 @@
 # Twitter Predictions
-Public Kaggle Competition code
+NLP Playground!
